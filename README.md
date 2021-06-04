@@ -1,4 +1,4 @@
-START PROMPT items
+ START PROMPT items
 
  GET ItemName ItemName(Shampoo OR Bangs OR Fringes) 
 
